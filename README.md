@@ -31,10 +31,7 @@ system.
 
 # API 
 Within airtable, I have the following metrics stored:
-<ol>
-  <li>Name</li>
-  <li>Symbol</li>
-</ol>
+![Governance Data](/governance-data)
 
 
 # MVP
