@@ -31,7 +31,7 @@ system.
 
 # API 
 Within airtable, I have the following metrics stored:
-![Governance Data](/governance-data.png)
+![Governance Data](/governance-data.pdf)
 
 
 # MVP
