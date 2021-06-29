@@ -38,7 +38,7 @@ Initially, we will start with the following metrics: name, symbol, voting rights
 
 # MVP
 <ul>
-  <li>MVP is a search bar that allows the user to search crypto currencies.</li>
+  <li>MVP is a search bar that allows the user to search governance information for a specific coin.</li>
   <li>Source data from Airtable API listed above</li>
   <li>If the coin does not exist, allow the user to create a new entry for this coin.</li> 
   <li>If the coin exists, render the coin’s information as a specific component onto the page and allow the user to edit / update the current entry.</li>
