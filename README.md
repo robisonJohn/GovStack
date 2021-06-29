@@ -23,9 +23,10 @@ system. Thus, by relying on a trust-based framework, GovStack can build a commun
 
 # Wireframes
 ### Desktop
-![Wireframe-Desktop](/images/wireframe-desktop.jpeg)
+![Wireframe-Desktop](/images/wireframe-desktop-final.png)
 ### Mobile
-![Wireframe-Mobile](/images/wireframe-mobile.jpeg)
+![Wireframe-Mobile](/images/wireframe-mobile-final-1.png)
+![Wireframe-Mobile-2](/images/wireframe-mobile-final-2.png)
 
 # Component Hierarchy
 ![Component Hierarchy](images/components-final.png)
