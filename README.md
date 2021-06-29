@@ -28,7 +28,7 @@ system.
 ![Wireframe-Mobile](/images/wireframe-mobile.jpeg)
 
 # Component Hierarchy
-
+![Component Hierarchy](images/component-hierachy.jpeg)
 
 # API 
 Within airtable, I have the following metrics stored:
