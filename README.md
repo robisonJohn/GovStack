@@ -28,7 +28,7 @@ system.
 ![Wireframe-Mobile](/images/wireframe-mobile.jpeg)
 
 # Component Hierarchy
-![Component Hierarchy](images/component-hierachy.jpeg)
+![Component Hierarchy](images/component-hierachy.HEIC)
 
 # API 
 Within airtable, the following metrics are stored:
