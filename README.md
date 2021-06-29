@@ -59,8 +59,8 @@ Within airtable, I have the following metrics stored:
 
 # SWOT Analysis
 <ol>
-  <li>Strengths: </li>
-  <li>Weaknesses: </li>
-  <li>Opportunities: </li>
-  <li>Threats: </li>
+  <li>Strengths: I feel very comfortable with this concept and its associated data.</li>
+  <li>Weaknesses: I am still not super comfortable with component hierarchy, as you may see from my component hierarchy above. I need to take today to really iron this concept out to make the rest of the week much easier</li>
+  <li>Opportunities: I want to use this project to really aggregate all of my REACT knowledge gained thus far. </li>
+  <li>Threats: I need to be sure I focus on completing my MVP and do not get lost in any rabbit holes of extra features. Get the main task done, first.</li>
 </ol>
