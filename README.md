@@ -23,7 +23,7 @@ system.
 
 # Wireframes
 ### Desktop
-![Wireframe-Home](/images/webpage-home.drawio)
+![Wireframe-Home](https://github.com/robisonJohn/GovStack/blob/main/images/webpage-home.drawio)
 ### Mobile
 
 # Component Hierarchy
@@ -35,11 +35,30 @@ Within airtable, I have the following metrics stored:
 
 
 # MVP
+<ul>
+  <li>MVP is a search bar that allows the user to search crypto currencies.</li>
+  <li>Source data from Airtable API listed above</li>
+  <li>If the coin does not exist, allow the user to create a new entry for this coin.</li> 
+  <li>If the coin exists, render the coin’s information as a specific component onto the page and allow the user to edit / update the current entry.</li>
+  <li>Basic CSS styling using a combination of grid and flexbox</li>
+</ul>
 
 # Post-MVP
+<ul>
+  <li>Enable the user to visualize specific governance data using histograms by implementing D3</li>
+  <li>Utilize Bootstrap to improve user experience</li>
+  <li>Feature that hovers over a given word and provides a definition of that word</li>
+  <li>White Paper explaining the purpose of this site in detail</li>
+</ul>
 
-# Project Schedule
+# Project Schedule and Timeframes
 
-# Timeframes
+
 
 # SWOT Analysis
+<ol>
+  <li>Strengths: </li>
+  <li>Weaknesses: </li>
+  <li>Opportunities: </li>
+  <li>Threats: </li>
+</ol>
