@@ -31,8 +31,9 @@ system.
 ![Component Hierarchy](images/component-hierachy.jpeg)
 
 # API 
-Within airtable, I have the following metrics stored:
+Within airtable, the following metrics are stored:
 ![Governance Data](/images/governance.png)
+Initially, we will start with the following metrics: name, symbol, voting rights, and voting model. As we progress through our MVP, we will add in more data components.
 
 
 # MVP
