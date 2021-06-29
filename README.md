@@ -23,8 +23,9 @@ system.
 
 # Wireframes
 ### Desktop
-![Wireframe-Home](https://github.com/robisonJohn/GovStack/blob/main/images/webpage-home.drawio)
+![Wireframe-Desktop](/images/wireframe-desktop.jpeg)
 ### Mobile
+![Wireframe-Mobile](/images/wireframe-mobile.jpeg)
 
 # Component Hierarchy
 
@@ -52,6 +53,7 @@ Within airtable, I have the following metrics stored:
 </ul>
 
 # Project Schedule and Timeframes
+![Project Schedule and Timelines](/images/timeframes.png)
 
 
 
