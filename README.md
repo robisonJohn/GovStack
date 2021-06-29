@@ -30,7 +30,7 @@ system. Thus, by relying on a trust-based framework, GovStack can build a commun
 # Component Hierarchy
 ![Component Hierarchy](images/components-final.png)
 
-<p>I am not sure why this image is not rendering, but I am working on fixing it right now. Thanks! </p>
+
 
 # API 
 Within airtable, the following metrics are stored:
