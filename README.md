@@ -30,6 +30,8 @@ system.
 # Component Hierarchy
 ![Component Hierarchy](images/component-hierachy-2.jpeg)
 
+<p>I am not sure why this image is not rendering, but I am working on fixing it right now. Thanks! </p>
+
 # API 
 Within airtable, the following metrics are stored:
 ![Governance Data](/images/governance.png)
